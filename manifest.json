@@ -1,0 +1,8 @@
+{
+    "name": "Expression Placeholder",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "description": "Adds placeholders for character expressions in chat messages",
+    "requires": [],
+    "tags": ["messages", "expressions"]
+}
